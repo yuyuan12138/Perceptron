@@ -46,5 +46,3 @@ After you run the script, you should see the predicted classes output in the con
 
 Contributions are welcome. Please fork the repository and submit a pull request with your changes or improvements.
 
-# Perceptron
-This repository contains a simple implementation of the Perceptron, a fundamental binary classifier in machine learning. This implementation is built using Python and demonstrates the basic workings of the Perceptron algorithm.
